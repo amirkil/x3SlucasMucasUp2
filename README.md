@@ -6,6 +6,8 @@ elseif PlaceId == 3956818381 then
 	loadstring(game:HttpGet"https://raw.githubusercontent.com/amirkil/How/main/README.md")();
 elseif PlaceId == 537413528 then
    loadstring(game:HttpGet"https://raw.githubusercontent.com/amirkil/MUCASXHUB-V.Full/main/README.md")();
+elseif PlaceId == 6329844902 then
+   loadstring(game:HttpGet"https://raw.githubusercontent.com/amirkil/How/main/README.md")();
 else
 	game.Players.LocalPlayer:kick("สคริปไม่มีเกมนี้ ไอ้สัส")
 	wait(1)
