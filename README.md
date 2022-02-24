@@ -7,7 +7,7 @@ elseif PlaceId == 3956818381 then
 elseif PlaceId == 537413528 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/amirkil/MUCASXHUB-V.Full/main/README.md")();
 elseif PlaceId == 6329844902 then
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/amirkil/2ScriptsMucas/main/README.md")();
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/amirkil/xMucas/main/README.md")();
 elseif PlaceId == 3101667897 then
 	loadstring(game:HttpGet"https://raw.githubusercontent.com/amirkil/xMucas/main/README.md")();
 else
