@@ -9,7 +9,7 @@ elseif PlaceId == 537413528 then
 elseif PlaceId == 6329844902 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/amirkil/xMucas/main/README.md")();
 elseif PlaceId == 3101667897 then
-	loadstring(game:HttpGet"https://raw.githubusercontent.com/amirkil/xMucas/main/README.md")();
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/amirkil/MUC-/main/README.md")();
 else
 	game.Players.LocalPlayer:kick("สคริปไม่มีเกมนี้ ไอ้สัส")
 	wait(1)
